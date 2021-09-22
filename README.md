@@ -1,2 +1,5 @@
-# coursera
-Repository for online IBM-Coursera Data Science Certificate
+### IBM Data Science Certificate on Coursera
+
+Name: Ray
+Object: Able to read python codes
+
