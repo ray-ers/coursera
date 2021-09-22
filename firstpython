@@ -1,0 +1,7 @@
+# Not sure if I remember all the things I learned in Brilliant
+a = 50
+b = 2*a
+for i in range(10):
+  print(i*a+b)
+  
+
